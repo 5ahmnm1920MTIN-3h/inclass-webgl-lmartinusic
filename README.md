@@ -28,6 +28,6 @@ incl. progress in percent
 ## Limitations:
 ## Lessons Learned:
 - Switch Platform from Standalone to WebGL
-- Buil WebGL
+- Build WebGL
 
 Copyright by Leo Martinusic
